@@ -128,7 +128,6 @@ body {
   width: 100%;
   height: auto;
 }
-
 /*UTEIS*/
 .centro{float: none; margin:0 auto;display:block;}
 .text-center {
@@ -197,6 +196,13 @@ body {
   color: orange;
   border-right: solid 1px #999;
   padding-right: 4px;
+}
+
+#conteudo .banner img{
+  width:100%;
+  height:400px;
+  object-fit: cover;
+
 }
 
 #rodape {
